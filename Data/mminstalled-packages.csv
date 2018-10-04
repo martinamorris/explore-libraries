@@ -1,0 +1,247 @@
+Package,LibPath,Version,Priority,Built
+abind,C:/Users/morrism/Documents/R/win-library/3.5,1.4-5,NA,3.5.0
+ada,C:/Users/morrism/Documents/R/win-library/3.5,2.0-5,NA,3.5.0
+animation,C:/Users/morrism/Documents/R/win-library/3.5,2.5,NA,3.5.0
+ape,C:/Users/morrism/Documents/R/win-library/3.5,5.1,NA,3.5.1
+asbio,C:/Users/morrism/Documents/R/win-library/3.5,1.5,NA,3.5.0
+assertthat,C:/Users/morrism/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+backports,C:/Users/morrism/Documents/R/win-library/3.5,1.1.2,NA,3.5.0
+base64,C:/Users/morrism/Documents/R/win-library/3.5,2.0,NA,3.5.0
+base64enc,C:/Users/morrism/Documents/R/win-library/3.5,0.1-3,NA,3.5.0
+BH,C:/Users/morrism/Documents/R/win-library/3.5,1.66.0-1,NA,3.5.0
+bindr,C:/Users/morrism/Documents/R/win-library/3.5,0.1.1,NA,3.5.0
+bindrcpp,C:/Users/morrism/Documents/R/win-library/3.5,0.2.2,NA,3.5.0
+bit,C:/Users/morrism/Documents/R/win-library/3.5,1.1-14,NA,3.5.0
+bit64,C:/Users/morrism/Documents/R/win-library/3.5,0.9-7,NA,3.5.0
+bitops,C:/Users/morrism/Documents/R/win-library/3.5,1.0-6,NA,3.5.0
+blob,C:/Users/morrism/Documents/R/win-library/3.5,1.1.1,NA,3.5.0
+bookdown,C:/Users/morrism/Documents/R/win-library/3.5,0.7,NA,3.5.0
+brew,C:/Users/morrism/Documents/R/win-library/3.5,1.0-6,NA,3.5.0
+broom,C:/Users/morrism/Documents/R/win-library/3.5,0.4.4,NA,3.5.0
+BSDA,C:/Users/morrism/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+callr,C:/Users/morrism/Documents/R/win-library/3.5,2.0.4,NA,3.5.0
+car,C:/Users/morrism/Documents/R/win-library/3.5,3.0-0,NA,3.5.0
+carData,C:/Users/morrism/Documents/R/win-library/3.5,3.0-1,NA,3.5.0
+cartogram,C:/Users/morrism/Documents/R/win-library/3.5,0.1.0,NA,3.5.1
+caTools,C:/Users/morrism/Documents/R/win-library/3.5,1.17.1,NA,3.5.0
+cellranger,C:/Users/morrism/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+classInt,C:/Users/morrism/Documents/R/win-library/3.5,0.2-3,NA,3.5.1
+cli,C:/Users/morrism/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+clipr,C:/Users/morrism/Documents/R/win-library/3.5,0.4.1,NA,3.5.1
+clisymbols,C:/Users/morrism/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+coda,C:/Users/morrism/Documents/R/win-library/3.5,0.19-1,NA,3.5.0
+colorspace,C:/Users/morrism/Documents/R/win-library/3.5,1.3-2,NA,3.5.0
+crayon,C:/Users/morrism/Documents/R/win-library/3.5,1.3.4,NA,3.5.0
+crosstalk,C:/Users/morrism/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+curl,C:/Users/morrism/Documents/R/win-library/3.5,3.2,NA,3.5.0
+data.table,C:/Users/morrism/Documents/R/win-library/3.5,1.11.2,NA,3.5.0
+DBI,C:/Users/morrism/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+dbplyr,C:/Users/morrism/Documents/R/win-library/3.5,1.2.1,NA,3.5.0
+DEoptimR,C:/Users/morrism/Documents/R/win-library/3.5,1.0-8,NA,3.5.0
+desc,C:/Users/morrism/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+DescTools,C:/Users/morrism/Documents/R/win-library/3.5,0.99.24,NA,3.5.0
+deSolve,C:/Users/morrism/Documents/R/win-library/3.5,1.21,NA,3.5.0
+devtools,C:/Users/morrism/Documents/R/win-library/3.5,1.13.6,NA,3.5.1
+dichromat,C:/Users/morrism/Documents/R/win-library/3.5,2.0-0,NA,3.5.0
+digest,C:/Users/morrism/Documents/R/win-library/3.5,0.6.15,NA,3.5.0
+doParallel,C:/Users/morrism/Documents/R/win-library/3.5,1.0.11,NA,3.5.1
+dplyr,C:/Users/morrism/Documents/R/win-library/3.5,0.7.5,NA,3.5.0
+DT,C:/Users/morrism/Documents/R/win-library/3.5,0.4,NA,3.5.1
+e1071,C:/Users/morrism/Documents/R/win-library/3.5,1.6-8,NA,3.5.0
+egonet,C:/Users/morrism/Documents/R/win-library/3.5,0.0.0.9000,NA,3.5.0
+EpiModel,C:/Users/morrism/Documents/R/win-library/3.5,1.6.5,NA,3.5.1
+ergm,C:/Users/morrism/Documents/R/win-library/3.5,3.8.0,NA,3.5.1
+ergm.count,C:/Users/morrism/Documents/R/win-library/3.5,3.2.2,NA,3.5.0
+ergm.ego,C:/Users/morrism/Documents/R/win-library/3.5,0.4-259,NA,3.5.0
+evaluate,C:/Users/morrism/Documents/R/win-library/3.5,0.10.1,NA,3.5.0
+evd,C:/Users/morrism/Documents/R/win-library/3.5,2.3-3,NA,3.5.0
+expm,C:/Users/morrism/Documents/R/win-library/3.5,0.999-2,NA,3.5.0
+fastmatch,C:/Users/morrism/Documents/R/win-library/3.5,1.1-0,NA,3.5.0
+ff,C:/Users/morrism/Documents/R/win-library/3.5,2.2-14,NA,3.5.0
+ffbase,C:/Users/morrism/Documents/R/win-library/3.5,0.12.3,NA,3.5.0
+forcats,C:/Users/morrism/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+foreach,C:/Users/morrism/Documents/R/win-library/3.5,1.4.4,NA,3.5.1
+fs,C:/Users/morrism/Documents/R/win-library/3.5,1.2.6,NA,3.5.1
+gdalUtils,C:/Users/morrism/Documents/R/win-library/3.5,2.0.1.14,NA,3.5.1
+gdtools,C:/Users/morrism/Documents/R/win-library/3.5,0.1.7,NA,3.5.1
+GGally,C:/Users/morrism/Documents/R/win-library/3.5,1.4.0,NA,3.5.0
+ggplot2,C:/Users/morrism/Documents/R/win-library/3.5,3.0.0,NA,3.5.1
+gh,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+git2r,C:/Users/morrism/Documents/R/win-library/3.5,0.23.0,NA,3.5.1
+glue,C:/Users/morrism/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+googlesheets,C:/Users/morrism/Documents/R/win-library/3.5,0.2.2,NA,3.5.0
+gridExtra,C:/Users/morrism/Documents/R/win-library/3.5,2.3,NA,3.5.1
+gtable,C:/Users/morrism/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+haven,C:/Users/morrism/Documents/R/win-library/3.5,1.1.1,NA,3.5.0
+here,C:/Users/morrism/Documents/R/win-library/3.5,0.1,NA,3.5.1
+hexbin,C:/Users/morrism/Documents/R/win-library/3.5,1.27.2,NA,3.5.1
+highr,C:/Users/morrism/Documents/R/win-library/3.5,0.6,NA,3.5.0
+hms,C:/Users/morrism/Documents/R/win-library/3.5,0.4.2,NA,3.5.0
+htmltools,C:/Users/morrism/Documents/R/win-library/3.5,0.3.6,NA,3.5.0
+htmlwidgets,C:/Users/morrism/Documents/R/win-library/3.5,1.2,NA,3.5.0
+httpuv,C:/Users/morrism/Documents/R/win-library/3.5,1.4.4.1,NA,3.5.0
+httr,C:/Users/morrism/Documents/R/win-library/3.5,1.3.1,NA,3.5.0
+ini,C:/Users/morrism/Documents/R/win-library/3.5,0.3.1,NA,3.5.1
+ipred,C:/Users/morrism/Documents/R/win-library/3.5,0.9-6,NA,3.5.0
+iterators,C:/Users/morrism/Documents/R/win-library/3.5,1.0.10,NA,3.5.1
+jomo,C:/Users/morrism/Documents/R/win-library/3.5,2.6-2,NA,3.5.0
+jsonlite,C:/Users/morrism/Documents/R/win-library/3.5,1.5,NA,3.5.0
+knitr,C:/Users/morrism/Documents/R/win-library/3.5,1.20,NA,3.5.0
+labeling,C:/Users/morrism/Documents/R/win-library/3.5,0.3,NA,3.5.0
+later,C:/Users/morrism/Documents/R/win-library/3.5,0.7.3,NA,3.5.0
+latticeExtra,C:/Users/morrism/Documents/R/win-library/3.5,0.6-28,NA,3.5.0
+lava,C:/Users/morrism/Documents/R/win-library/3.5,1.6.1,NA,3.5.0
+lazyeval,C:/Users/morrism/Documents/R/win-library/3.5,0.2.1,NA,3.5.0
+leaflet,C:/Users/morrism/Documents/R/win-library/3.5,2.0.1,NA,3.5.1
+lme4,C:/Users/morrism/Documents/R/win-library/3.5,1.1-17,NA,3.5.0
+lpSolve,C:/Users/morrism/Documents/R/win-library/3.5,5.6.13,NA,3.5.0
+lubridate,C:/Users/morrism/Documents/R/win-library/3.5,1.7.4,NA,3.5.0
+lwgeom,C:/Users/morrism/Documents/R/win-library/3.5,0.1-4,NA,3.5.1
+magrittr,C:/Users/morrism/Documents/R/win-library/3.5,1.5,NA,3.5.0
+manipulate,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+maps,C:/Users/morrism/Documents/R/win-library/3.5,3.3.0,NA,3.5.1
+maptools,C:/Users/morrism/Documents/R/win-library/3.5,0.9-2,NA,3.5.0
+mapview,C:/Users/morrism/Documents/R/win-library/3.5,2.4.0,NA,3.5.1
+markdown,C:/Users/morrism/Documents/R/win-library/3.5,0.8,NA,3.5.0
+MatrixModels,C:/Users/morrism/Documents/R/win-library/3.5,0.4-1,NA,3.5.0
+memoise,C:/Users/morrism/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+mice,C:/Users/morrism/Documents/R/win-library/3.5,3.1.0,NA,3.5.0
+mime,C:/Users/morrism/Documents/R/win-library/3.5,0.5,NA,3.5.0
+minqa,C:/Users/morrism/Documents/R/win-library/3.5,1.2.4,NA,3.5.0
+mitml,C:/Users/morrism/Documents/R/win-library/3.5,0.3-5,NA,3.5.0
+mnormt,C:/Users/morrism/Documents/R/win-library/3.5,1.5-5,NA,3.5.0
+modelr,C:/Users/morrism/Documents/R/win-library/3.5,0.1.2,NA,3.5.0
+multcompView,C:/Users/morrism/Documents/R/win-library/3.5,0.1-7,NA,3.5.0
+munsell,C:/Users/morrism/Documents/R/win-library/3.5,0.4.3,NA,3.5.0
+mvtnorm,C:/Users/morrism/Documents/R/win-library/3.5,1.0-7,NA,3.5.0
+ndtv,C:/Users/morrism/Documents/R/win-library/3.5,0.12.2,NA,3.5.0
+network,C:/Users/morrism/Documents/R/win-library/3.5,1.13.0.1,NA,3.5.0
+networkDynamic,C:/Users/morrism/Documents/R/win-library/3.5,0.9.0,NA,3.5.0
+nloptr,C:/Users/morrism/Documents/R/win-library/3.5,1.0.4,NA,3.5.0
+numDeriv,C:/Users/morrism/Documents/R/win-library/3.5,2016.8-1,NA,3.5.0
+openssl,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+openxlsx,C:/Users/morrism/Documents/R/win-library/3.5,4.0.17,NA,3.5.0
+packcircles,C:/Users/morrism/Documents/R/win-library/3.5,0.3.2,NA,3.5.1
+packrat,C:/Users/morrism/Documents/R/win-library/3.5,0.4.9-3,NA,3.5.0
+pan,C:/Users/morrism/Documents/R/win-library/3.5,1.4,NA,3.5.0
+pbkrtest,C:/Users/morrism/Documents/R/win-library/3.5,0.4-7,NA,3.5.0
+pillar,C:/Users/morrism/Documents/R/win-library/3.5,1.2.2,NA,3.5.0
+pixmap,C:/Users/morrism/Documents/R/win-library/3.5,0.4-11,NA,3.5.0
+pkgconfig,C:/Users/morrism/Documents/R/win-library/3.5,2.0.1,NA,3.5.0
+PKI,C:/Users/morrism/Documents/R/win-library/3.5,0.1-5.1,NA,3.5.0
+plogr,C:/Users/morrism/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+plotly,C:/Users/morrism/Documents/R/win-library/3.5,4.8.0,NA,3.5.1
+plotrix,C:/Users/morrism/Documents/R/win-library/3.5,3.7-1,NA,3.5.0
+plyr,C:/Users/morrism/Documents/R/win-library/3.5,1.8.4,NA,3.5.0
+png,C:/Users/morrism/Documents/R/win-library/3.5,0.1-7,NA,3.5.0
+pracma,C:/Users/morrism/Documents/R/win-library/3.5,2.1.4,NA,3.5.0
+praise,C:/Users/morrism/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+prettyunits,C:/Users/morrism/Documents/R/win-library/3.5,1.0.2,NA,3.5.0
+processx,C:/Users/morrism/Documents/R/win-library/3.5,3.1.0,NA,3.5.0
+prodlim,C:/Users/morrism/Documents/R/win-library/3.5,2018.04.18,NA,3.5.0
+progress,C:/Users/morrism/Documents/R/win-library/3.5,1.1.2,NA,3.5.0
+promises,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+psych,C:/Users/morrism/Documents/R/win-library/3.5,1.8.4,NA,3.5.0
+purrr,C:/Users/morrism/Documents/R/win-library/3.5,0.2.5,NA,3.5.0
+quantreg,C:/Users/morrism/Documents/R/win-library/3.5,5.35,NA,3.5.0
+R.methodsS3,C:/Users/morrism/Documents/R/win-library/3.5,1.7.1,NA,3.5.0
+R.oo,C:/Users/morrism/Documents/R/win-library/3.5,1.22.0,NA,3.5.0
+R.utils,C:/Users/morrism/Documents/R/win-library/3.5,2.6.0,NA,3.5.1
+R6,C:/Users/morrism/Documents/R/win-library/3.5,2.2.2,NA,3.5.0
+raster,C:/Users/morrism/Documents/R/win-library/3.5,2.6-7,NA,3.5.1
+RColorBrewer,C:/Users/morrism/Documents/R/win-library/3.5,1.1-2,NA,3.5.0
+Rcpp,C:/Users/morrism/Documents/R/win-library/3.5,0.12.17,NA,3.5.0
+RcppEigen,C:/Users/morrism/Documents/R/win-library/3.5,0.3.3.4.0,NA,3.5.0
+RCurl,C:/Users/morrism/Documents/R/win-library/3.5,1.95-4.10,NA,3.5.0
+readr,C:/Users/morrism/Documents/R/win-library/3.5,1.1.1,NA,3.5.0
+readxl,C:/Users/morrism/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+RecordLinkage,C:/Users/morrism/Documents/R/win-library/3.5,0.4-10,NA,3.5.0
+rematch,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+reprex,C:/Users/morrism/Documents/R/win-library/3.5,0.1.2,NA,3.5.0
+reshape,C:/Users/morrism/Documents/R/win-library/3.5,0.8.7,NA,3.5.0
+reshape2,C:/Users/morrism/Documents/R/win-library/3.5,1.4.3,NA,3.5.0
+rgdal,C:/Users/morrism/Documents/R/win-library/3.5,1.3-3,NA,3.5.1
+rgeos,C:/Users/morrism/Documents/R/win-library/3.5,0.3-28,NA,3.5.1
+rio,C:/Users/morrism/Documents/R/win-library/3.5,0.5.10,NA,3.5.0
+RJSONIO,C:/Users/morrism/Documents/R/win-library/3.5,1.3-0,NA,3.5.0
+rlang,C:/Users/morrism/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+rmarkdown,C:/Users/morrism/Documents/R/win-library/3.5,1.9,NA,3.5.0
+robustbase,C:/Users/morrism/Documents/R/win-library/3.5,0.93-0,NA,3.5.0
+rprojroot,C:/Users/morrism/Documents/R/win-library/3.5,1.3-2,NA,3.5.0
+rsconnect,C:/Users/morrism/Documents/R/win-library/3.5,0.8.8,NA,3.5.0
+RSQLite,C:/Users/morrism/Documents/R/win-library/3.5,2.1.1,NA,3.5.0
+rstudioapi,C:/Users/morrism/Documents/R/win-library/3.5,0.7,NA,3.5.0
+rvest,C:/Users/morrism/Documents/R/win-library/3.5,0.3.2,NA,3.5.0
+satellite,C:/Users/morrism/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+scales,C:/Users/morrism/Documents/R/win-library/3.5,0.5.0,NA,3.5.0
+scatterplot3d,C:/Users/morrism/Documents/R/win-library/3.5,0.3-41,NA,3.5.0
+selectr,C:/Users/morrism/Documents/R/win-library/3.5,0.4-1,NA,3.5.0
+sf,C:/Users/morrism/Documents/R/win-library/3.5,0.6-3,NA,3.5.1
+shiny,C:/Users/morrism/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+sna,C:/Users/morrism/Documents/R/win-library/3.5,2.4,NA,3.5.1
+sourcetools,C:/Users/morrism/Documents/R/win-library/3.5,0.1.7,NA,3.5.0
+sp,C:/Users/morrism/Documents/R/win-library/3.5,1.2-7,NA,3.5.0
+SparseM,C:/Users/morrism/Documents/R/win-library/3.5,1.77,NA,3.5.0
+spData,C:/Users/morrism/Documents/R/win-library/3.5,0.2.9.0,NA,3.5.1
+SQUAREM,C:/Users/morrism/Documents/R/win-library/3.5,2017.10-1,NA,3.5.0
+statnet,C:/Users/morrism/Documents/R/win-library/3.5,2016.9,NA,3.5.0
+statnet.common,C:/Users/morrism/Documents/R/win-library/3.5,4.1.4,NA,3.5.0
+statnetWeb,C:/Users/morrism/Documents/R/win-library/3.5,0.5.0,NA,3.5.1
+stringi,C:/Users/morrism/Documents/R/win-library/3.5,1.2.2,NA,3.5.0
+stringr,C:/Users/morrism/Documents/R/win-library/3.5,1.3.1,NA,3.5.0
+svglite,C:/Users/morrism/Documents/R/win-library/3.5,1.2.1,NA,3.5.1
+tergm,C:/Users/morrism/Documents/R/win-library/3.5,3.4.1,NA,3.5.1
+testthat,C:/Users/morrism/Documents/R/win-library/3.5,2.0.0,NA,3.5.0
+tibble,C:/Users/morrism/Documents/R/win-library/3.5,1.4.2,NA,3.5.0
+tidyr,C:/Users/morrism/Documents/R/win-library/3.5,0.8.1,NA,3.5.0
+tidyselect,C:/Users/morrism/Documents/R/win-library/3.5,0.2.4,NA,3.5.0
+tidyverse,C:/Users/morrism/Documents/R/win-library/3.5,1.2.1,NA,3.5.1
+tinytex,C:/Users/morrism/Documents/R/win-library/3.5,0.5,NA,3.5.0
+tmap,C:/Users/morrism/Documents/R/win-library/3.5,2.0,NA,3.5.0
+tmaptools,C:/Users/morrism/Documents/R/win-library/3.5,2.0,NA,3.5.0
+trust,C:/Users/morrism/Documents/R/win-library/3.5,0.1-7,NA,3.5.0
+tsna,C:/Users/morrism/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+units,C:/Users/morrism/Documents/R/win-library/3.5,0.6-0,NA,3.5.1
+usethis,C:/Users/morrism/Documents/R/win-library/3.5,1.4.0,NA,3.5.1
+utf8,C:/Users/morrism/Documents/R/win-library/3.5,1.1.3,NA,3.5.0
+uuid,C:/Users/morrism/Documents/R/win-library/3.5,0.1-2,NA,3.5.0
+viridis,C:/Users/morrism/Documents/R/win-library/3.5,0.5.1,NA,3.5.1
+viridisLite,C:/Users/morrism/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+webshot,C:/Users/morrism/Documents/R/win-library/3.5,0.5.0,NA,3.5.1
+whisker,C:/Users/morrism/Documents/R/win-library/3.5,0.3-2,NA,3.5.0
+withr,C:/Users/morrism/Documents/R/win-library/3.5,2.1.2,NA,3.5.0
+xfun,C:/Users/morrism/Documents/R/win-library/3.5,0.1,NA,3.5.0
+XML,C:/Users/morrism/Documents/R/win-library/3.5,3.98-1.12,NA,3.5.1
+xml2,C:/Users/morrism/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+xtable,C:/Users/morrism/Documents/R/win-library/3.5,1.8-2,NA,3.5.0
+yaml,C:/Users/morrism/Documents/R/win-library/3.5,2.1.19,NA,3.5.0
+base,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+boot,C:/Program Files/R/R-3.5.1/library,1.3-20,recommended,3.5.1
+class,C:/Program Files/R/R-3.5.1/library,7.3-14,recommended,3.5.1
+cluster,C:/Program Files/R/R-3.5.1/library,2.0.7-1,recommended,3.5.1
+codetools,C:/Program Files/R/R-3.5.1/library,0.2-15,recommended,3.5.1
+compiler,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+datasets,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+foreign,C:/Program Files/R/R-3.5.1/library,0.8-70,recommended,3.5.1
+graphics,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+grDevices,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+grid,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+KernSmooth,C:/Program Files/R/R-3.5.1/library,2.23-15,recommended,3.5.1
+lattice,C:/Program Files/R/R-3.5.1/library,0.20-35,recommended,3.5.1
+MASS,C:/Program Files/R/R-3.5.1/library,7.3-50,recommended,3.5.1
+Matrix,C:/Program Files/R/R-3.5.1/library,1.2-14,recommended,3.5.1
+methods,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+mgcv,C:/Program Files/R/R-3.5.1/library,1.8-24,recommended,3.5.1
+nlme,C:/Program Files/R/R-3.5.1/library,3.1-137,recommended,3.5.1
+nnet,C:/Program Files/R/R-3.5.1/library,7.3-12,recommended,3.5.1
+parallel,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+rpart,C:/Program Files/R/R-3.5.1/library,4.1-13,recommended,3.5.1
+spatial,C:/Program Files/R/R-3.5.1/library,7.3-11,recommended,3.5.1
+splines,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+stats,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+stats4,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+survival,C:/Program Files/R/R-3.5.1/library,2.42-3,recommended,3.5.1
+tcltk,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+tools,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+translations,C:/Program Files/R/R-3.5.1/library,3.5.1,NA,3.5.1
+utils,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
