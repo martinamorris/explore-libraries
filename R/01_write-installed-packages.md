@@ -1,7 +1,7 @@
 01\_write-installed-packages.R
 ================
 morrism
-Thu Oct 04 14:36:13 2018
+Thu Oct 04 14:54:58 2018
 
 ``` r
 ## deja vu from earlier!
@@ -46,7 +46,7 @@ library(here)
 
 ``` r
 library(readr)
-readr::write_csv(ipt_part, here("data", "mminstalled-packages.csv"))
+readr::write_csv(ipt_part, here("Data", "mminstalled-packages.csv"))
 
 ## YES overwrite the file that is there now (or delete it first)
 ## that came from me (Jenny)

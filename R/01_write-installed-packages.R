@@ -25,7 +25,7 @@ ipt_part <- installed.packages() %>%
 
 library(here)
 library(readr)
-readr::write_csv(ipt_part, here("data", "mminstalled-packages.csv"))
+readr::write_csv(ipt_part, here("Data", "mminstalled-packages.csv"))
 
 ## YES overwrite the file that is there now (or delete it first)
 ## that came from me (Jenny)
