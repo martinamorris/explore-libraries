@@ -1,4 +1,6 @@
 # explore-libraries
 R WTF workshop library
 
-first commit
+first commit (from laptop)
+
+second commit (from GitHub)
